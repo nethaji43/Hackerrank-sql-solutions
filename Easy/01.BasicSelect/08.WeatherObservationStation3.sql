@@ -1,0 +1,3 @@
+SELECT distinct city
+from station
+WHERE id%2=0;
